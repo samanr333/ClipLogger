@@ -1,5 +1,5 @@
 
-# Clipboard Logger (Python)
+# ClipLogger (Python)
 
 A lightweight clipboard monitoring tool for **Linux**, written in Python. It captures copied **text** and **file paths**, stores metadata like file size and timestamps, and logs all entries into a temporary RAM-based file at `/dev/shm/clipboard_log.txt`.
 
